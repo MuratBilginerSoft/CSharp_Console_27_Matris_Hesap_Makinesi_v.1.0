@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Matris Hesap Makinesi v1.0\Kod S Matris Hesap Makinesi v1.0\bin\Debug\Kod S Matris Hesap Makinesi v1.0.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Hesap Makinesi v1.0\Kod S Matris Hesap Makinesi v1.0\bin\Debug\Kod S Matris Hesap Makinesi v1.0.pdb
+C:\Users\mrt_b\Desktop\Kod S Matris Hesap Makinesi v1.0\Kod S Matris Hesap Makinesi v1.0\obj\x86\Debug\Kod S Matris Hesap Makinesi v1.0.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Hesap Makinesi v1.0\Kod S Matris Hesap Makinesi v1.0\obj\x86\Debug\Kod S Matris Hesap Makinesi v1.0.pdb
